@@ -57,7 +57,7 @@ GEM
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
     posix-spawn (0.3.11)
-    puma (3.4.0)
+    puma (3.12.6)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
